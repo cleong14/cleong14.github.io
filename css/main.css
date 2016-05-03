@@ -746,3 +746,11 @@ padding: 9px;
   color: #fff;
   border-bottom: 1px dashed;
 }
+
+.icon-phone:before {
+  content: "\f099";
+}
+
+.icon-user:before {
+  content: "\f16d";
+}
